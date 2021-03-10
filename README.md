@@ -34,7 +34,8 @@ https://www.kaggle.com/tboyle10/medicaltranscriptions
 https://www.kaggle.com/jboysen/mri-and-alzheimers  
 https://gdc.cancer.gov/about-data/publications/pancanatlas  
 https://data.world/associatedpress/covid-impact-survey-public-data  
-https://www.kaggle.com/ymirsky/medical-deepfakes-lung-cancer
+https://www.kaggle.com/ymirsky/medical-deepfakes-lung-cancer  
+http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
 
 
 
